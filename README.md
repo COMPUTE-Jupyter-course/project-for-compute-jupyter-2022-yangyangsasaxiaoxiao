@@ -9,4 +9,4 @@ The principle and function of X-ray photoelectron spectroscopy (XPS) is to radia
 4. Install and activate the environment described by the file environment.yml by running the following in a terminal.(in the environment.yml)
 
 ## Experiment datas
-In same path, 5.txt is x(energy) and y is density.
+In same path, 5.txt is x(energy) and 6.txt is density.

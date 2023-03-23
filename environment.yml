@@ -5,10 +5,8 @@ dependencies:
   - python=3
   - matplotlib
   - bokeh=2
+  - pathlib
   - ipywidgets
   - notebook
   - numpy
   - scipy
-  - pip
-  - xlrd
-
